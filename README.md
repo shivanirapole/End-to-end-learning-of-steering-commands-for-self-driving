@@ -4,6 +4,7 @@ All files:
 Google Drive Link: https://bit.ly/3yGrVeu
 
 **Install Car Simulator**
+
 Install Udacity Car Simulator - https://github.com/udacity/self-driving-car-sim (We installed Version 1)
 
 **Run the model**

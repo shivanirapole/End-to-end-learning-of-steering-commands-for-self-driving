@@ -3,9 +3,10 @@
 All files:
 Google Drive Link: https://bit.ly/3yGrVeu
 
-Install Car Simulator
+**Install Car Simulator**
 Install Udacity Car Simulator - https://github.com/udacity/self-driving-car-sim (We installed Version 1)
-Run the model
+
+**Run the model**
 1. Download the driving_sim.zip file from the google drive folder and unzip it.
 2. Navigate into the driving_sim folder, should observe drive.py and model.pth files along with other files.
 3. Create python virtual environment in this this directory and install all the dependencies
